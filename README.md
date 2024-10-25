@@ -1,2 +1,3 @@
 # Coding-Challenge-11
 This is a repository for Coding-Challenge-11 for ISM3232 where we will create a simple Order Management System for a business that tracks and manages product orders
+We will use JavaScript to handle events such as selecting products, updating order quantities, and calculating total prices in real-time. The challenge focuses on event handling and dynamic UI updates in a business context.
